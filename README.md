@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/anisha463/social-proof-section-challenge](https://github.com/anisha463/social-proof-section-challenge)
+- Live Site URL: [https://anisha463.github.io/social-proof-section-challenge/](https://anisha463.github.io/social-proof-section-challenge/)
 
 ## My process
 
